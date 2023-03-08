@@ -1,16 +1,10 @@
-# nft_site
+# NFT Landing Page
+### A community for content creators
 
-A new Flutter project.
+Landing page created for a NFT community to be use as template for a Flutter complete website.
 
-## Getting Started
+## Tools used
 
-This project is a starting point for a Flutter application.
+This project needed to be created for web and mobiel, so it was decided to use Flutter as the main tool for development.
+As backend and deploying (hosting) the tool used was Google's Firebase.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
