@@ -2,6 +2,7 @@
 ### A community for content creators
 
 Landing page created for a NFT community to be use as template for a Flutter complete website.
+![What is this](logo.png)
 
 ## Tools used
 
